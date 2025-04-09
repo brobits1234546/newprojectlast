@@ -12,7 +12,7 @@ export const potatoDiseases: Disease[] = [
       "Water-soaked black stems",
       "Infected tubers with reddish-brown spots"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1518977676601-b53f82aba655"
+    imageUrl: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkz5__NMfkHi2sboudmjn61U7Uh6NPMUMYFAldeUXRKX2IVuGcSgszBh1F3-vORO8SrT2ZEuH2yZFO49nm2JMtEA"
   },
   {
     id: 2,
@@ -25,7 +25,7 @@ export const potatoDiseases: Disease[] = [
       "Small, dark spots on stems",
       "Dry, sunken areas on tubers"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1518977676601-b53f82aba655"
+    imageUrl: "https://veggiescout.ca.uky.edu/sites/veggiescout.ca.uky.edu/files/inline-images/65b%20early%20blight%20tuber%20%28Sandra%20Jensen%20Cornell%29%205492318.jpg"
   },
   {
     id: 3,
@@ -64,7 +64,7 @@ export const potatoDiseases: Disease[] = [
       "Slimy stem rot",
       "Tuber soft rot at stolon end"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1464226184884-fa280b87c399"
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTj8gzIrveJ5p3MuHXKmf1hz-o8haoYo9KMw&s"
   },
   {
     id: 6,
@@ -77,7 +77,7 @@ export const potatoDiseases: Disease[] = [
       "Necrotic spots",
       "Wrinkled leaves"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1533241242276-46a506b40d66"
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0HdCauBDPQfAw8hdPcqxLDlKkcdfhza76zw&s"
   },
   {
     id: 7,
@@ -90,7 +90,7 @@ export const potatoDiseases: Disease[] = [
       "Tuber tissue breakdown",
       "Cheese-like rot in tubers"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1530176928500-2372a88e46ab"
+    imageUrl: "https://www.daera-ni.gov.uk/sites/default/files/styles/nigov_full_620_x1/public/images/daera/ClavibacterMichiganensisInfectedPotatoTuber.jpg?itok=QyP5ajyC"
   },
   {
     id: 8,
@@ -103,7 +103,7 @@ export const potatoDiseases: Disease[] = [
       "Metallic sheen on tubers",
       "Skin peeling"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1510148199876-8a856ee41d42"
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ4S79dY8di35SUIt_uSU8dcyDc8IWlpJoww&s"
   },
   {
     id: 9,
@@ -116,7 +116,7 @@ export const potatoDiseases: Disease[] = [
       "Dark brown to black discoloration",
       "Dry, crumbly rot"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1523348837708-15d4a09cfac2"
+    imageUrl: "https://www.agric.wa.gov.au/sites/gateway/files/fusarium%20dry%20rot%2019-11-07%20%2810%29_0.JPG"
   },
   {
     id: 10,
@@ -129,7 +129,7 @@ export const potatoDiseases: Disease[] = [
       "External darkening",
       "Complete tuber breakdown"
     ],
-    imageUrl: "https://images.unsplash.com/photo-1528825871115-3581a5387919"
+    imageUrl: "https://www.growingproduce.com/wp-content/uploads/2018/09/potato-pink-rot.jpg"
   }
 ];
 
